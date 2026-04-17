@@ -1,6 +1,6 @@
 {
  "name": "@opusity/auth",
- "version": "1.0.0",
+ "version": "1.0.12",
  "description": "Zero-boilerplate JWT auth for Express — works with MongoDB & PostgreSQL",
  "main": "dist/index.js",
  "types": "dist/index.d.ts",
